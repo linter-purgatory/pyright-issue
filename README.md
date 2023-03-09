@@ -1,0 +1,1 @@
+Reproduces an issue I've found with pylance.
